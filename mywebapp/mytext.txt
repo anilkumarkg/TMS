@@ -1,9 +1,2 @@
 TEST AJAX
 
-Testing git 
-
-Again testing.....
-
-Adding again
-
-123456
